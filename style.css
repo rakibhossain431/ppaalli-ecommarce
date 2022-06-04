@@ -1,0 +1,14 @@
+.container{
+    display: grid;
+    grid-template-columns: 1fr 3fr 1fr;
+    
+}
+.one{
+  background-color: aqua;
+}
+.search-container{
+    background-color: antiquewhite;
+}
+.three{
+    background-color: blue;
+}
